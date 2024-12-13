@@ -39,3 +39,14 @@ Search Bus by Route: Allows searching for buses by route (Dhaka to Kushtia / Kus
 Add Bus: Users can add a new bus with schedule and route information.
 Select a Seat: Users can book a seat on a bus by selecting a seat number.
 Make Payment: Users can make payments using the Bkash or Nagad payment method.
+
+
+
+Usage
+Upon running the system, the user will see a menu with the following options:
+
+Display Bus Schedules: Displays all available bus schedules.
+Search Bus by Route: Allows searching for buses by route (Dhaka to Kushtia / Kushtia to Dhaka).
+Add Bus: Users can add a new bus with schedule and route information.
+Select a Seat: Users can book a seat on a bus by selecting a seat number.
+Make Payment: Users can make payments using the Bkash or Nagad payment method.
